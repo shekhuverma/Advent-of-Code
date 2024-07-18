@@ -1,5 +1,3 @@
-from collections import deque
-
 DAY = 10
 FILE_NAME = "inputs/" + str(DAY) + ".txt"
 with open(FILE_NAME) as f:
